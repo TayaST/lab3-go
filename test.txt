@@ -1,0 +1,7 @@
+M_array : grep orange banana
+F_forward_list : zero middle first
+L_list : Z B A
+Q_queue : Q2
+S_stack : S1
+H_hash_table : key2=val2
+T_mytree : 10, 5, 15
